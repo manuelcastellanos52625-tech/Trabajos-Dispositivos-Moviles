@@ -1,0 +1,7 @@
+# Archivos generados por Gradle y Kotlin
+.gradle/
+.kotlin/
+build/
+
+# Configuración local (ruta del SDK)
+local.properties
