@@ -1,4 +1,4 @@
-package com.example.calculadoranomina
+package com.manuelcastellanos.calculadoranomina
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -46,7 +46,7 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.calculadoranomina.ui.theme.CalculadoraNominaTheme
+import com.manuelcastellanos.calculadoranomina.ui.theme.CalculadoraNominaTheme
 import java.text.NumberFormat
 import java.util.Locale
 

@@ -24,7 +24,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.calculadoranomina"
+        applicationId = "com.manuelcastellanos.calculadoranomina"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -60,7 +60,7 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
-    namespace = "com.example.calculadoranomina"
+    namespace = "com.manuelcastellanos.calculadoranomina"
 }
 
 dependencies {

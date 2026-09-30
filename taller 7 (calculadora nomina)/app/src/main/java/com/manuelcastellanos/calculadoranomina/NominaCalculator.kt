@@ -1,4 +1,4 @@
-package com.example.calculadoranomina
+package com.manuelcastellanos.calculadoranomina
 
 // Salario mínimo mensual legal vigente (SMMLV) 2026 - Decreto 1469 de 2025
 const val SMMLV_2026 = 1_750_905.0

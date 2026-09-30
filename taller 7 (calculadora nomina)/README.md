@@ -12,14 +12,13 @@ Se usa un modelo simplificado de nómina con la normativa de septiembre de 2026 
 ## Estructura
 
 ```
-app/src/main/java/com/example/calculadoranomina/
+app/src/main/java/com/manuelcastellanos/calculadoranomina/
     MainActivity.kt        -> pantalla principal y composables reutilizables
     NominaCalculator.kt    -> constantes, ResultadoNomina, RangoSalarial,
                               calcularNomina, clasificarRango y validarEntradas
 app/src/main/res/
     drawable/              -> íconos de los tres rangos salariales
     values/strings.xml     -> todos los textos de la aplicación
-app/src/test/              -> pruebas unitarias de los casos A a E
 ```
 
 La lógica de negocio está separada de la interfaz. `CampoNumerico` y `FilaInterruptor` son composables sin estado propio; el estado vive en `PantallaNomina`.
@@ -41,11 +40,3 @@ La lógica de negocio está separada de la interfaz. `CampoNumerico` y `FilaInte
 | ![Salario bajo](evidencias/caso-E2-salario-bajo.png) | ![Exceso de horas](evidencias/caso-E3-exceso-horas.png) |
 
 Otras capturas del caso E: [salario vacío](evidencias/caso-E1-salario-vacio.png) y [horas extra vacías](evidencias/caso-E4-horas-vacias.png).
-
-## Pruebas
-
-Las pruebas unitarias cubren los casos A a E y los límites de los rangos salariales:
-
-```
-./gradlew testDebugUnitTest
-```
