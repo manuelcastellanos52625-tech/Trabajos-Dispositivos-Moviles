@@ -1,0 +1,6 @@
+Disponibles: [Teclado, Mouse, Cable USB]
+Económicos:  [Mouse, Cable USB, Webcam]
+Caros:       [Teclado, Monitor]
+Ofertas: [Mouse, Cable USB]
+Disponibles: 3
+Baratos:     2

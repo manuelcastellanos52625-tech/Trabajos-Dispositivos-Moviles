@@ -1,0 +1,8 @@
+Producto(nombre=Teclado, precio=120000, stock=15)
+Producto(nombre=Teclado, precio=95000, stock=15)
+¿Venta de 50 mouses aceptada? false
+reponer(-1) -> false
+Teclado: stock=12, valor=1440000
+Mouse: stock=30, valor=1350000
+Monitor: stock=6, valor=5100000
+Valor total del inventario: 7890000

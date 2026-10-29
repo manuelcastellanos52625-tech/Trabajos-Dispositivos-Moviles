@@ -1,0 +1,16 @@
+--- con cupón ENVIOGRATIS ---
+Cupón aplicado: ENVIOGRATIS
+Subtotal:  180000
+Descuento: 0
+Envío:     0
+TOTAL:     180000
+--- cupón null (no debe fallar) ---
+Subtotal:  180000
+Descuento: 0
+Envío:     0
+TOTAL:     180000
+--- checkpoints ---
+envío base con 100000 = 12000
+envío sin cupón, 100000 = 12000
+envío con cupón, 100000 = 0
+descuento premium 180000 = 18000

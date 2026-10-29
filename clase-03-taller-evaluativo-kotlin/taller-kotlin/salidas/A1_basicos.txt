@@ -1,0 +1,4 @@
+Ana Gómez tiene 21 años y un IMC de 22.14
+Categoría: Normal
+IMC 17.0 -> Bajo peso
+IMC 31.0 -> Obesidad
