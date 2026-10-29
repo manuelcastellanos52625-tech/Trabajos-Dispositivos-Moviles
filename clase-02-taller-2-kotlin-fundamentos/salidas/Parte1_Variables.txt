@@ -1,0 +1,6 @@
+Manuel Felipe Castellanos Calderón (M), 20 años, 1.75 m, estudiante: true
+Edad después de incrementar: 21
+a=Int b=Long c=Double d=Float e=String
+Estatura en cm: 175
+Edad como texto: 21
+NumberFormatException: For input string: "abc"

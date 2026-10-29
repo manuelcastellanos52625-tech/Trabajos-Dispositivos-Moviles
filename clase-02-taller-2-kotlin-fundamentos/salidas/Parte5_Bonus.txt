@@ -1,0 +1,4 @@
+'25' -> Tu edad es 25
+'abc' -> Entrada inválida: debes escribir un número
+'null' -> Entrada inválida: debes escribir un número
+'' -> Entrada inválida: debes escribir un número

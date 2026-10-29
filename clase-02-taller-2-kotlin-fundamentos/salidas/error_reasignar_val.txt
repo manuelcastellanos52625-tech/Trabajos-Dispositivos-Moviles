@@ -1,0 +1,3 @@
+reasignar_val.kt:3:5: error: 'val' cannot be reassigned.
+    nombre = "Otro"
+    ^^^^^^

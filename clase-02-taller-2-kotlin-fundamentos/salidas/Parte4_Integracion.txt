@@ -1,0 +1,9 @@
+Nota 85 -> B
+Nota 92 -> A
+Nota 67 -> D
+Nota 78 -> C
+Nota 95 -> A
+Promedio: 83.4
+Estado: Aprobado
+--- lista vacía ---
+No hay notas registradas

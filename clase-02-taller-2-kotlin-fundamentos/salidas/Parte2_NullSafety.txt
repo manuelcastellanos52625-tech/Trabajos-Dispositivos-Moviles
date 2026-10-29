@@ -1,0 +1,4 @@
+Longitud: 0
+Crash con !!: NullPointerException
+No hay correo registrado
+El correo 'ana@ucaldas.edu.co' tiene 18 caracteres
