@@ -1,0 +1,3 @@
+Tamaño de la lista: 2
+Tamaño de la lista: 3
+Tamaño de la lista: 4

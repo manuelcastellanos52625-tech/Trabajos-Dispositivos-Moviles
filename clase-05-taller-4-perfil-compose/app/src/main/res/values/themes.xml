@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PerfilUsuario" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
