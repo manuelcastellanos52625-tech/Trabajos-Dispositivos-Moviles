@@ -1,0 +1,4 @@
+20:30:15.924  MiApp.onCreate - el PROCESO arrancó
+20:30:16.037  ActivityA.onCreate (savedInstanceState null) - instancia: 181162150
+20:30:16.065  ActivityA.onStart - instancia: 181162150
+20:30:16.075  ActivityA.onResume - instancia: 181162150

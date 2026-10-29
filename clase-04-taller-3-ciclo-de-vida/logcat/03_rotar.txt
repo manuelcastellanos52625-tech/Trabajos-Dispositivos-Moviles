@@ -1,0 +1,7 @@
+20:30:32.077  ActivityA.onPause - instancia: 181162150
+20:30:32.083  ActivityA.onStop - instancia: 181162150
+20:30:32.084  ActivityA.onSaveInstanceState - guardando contador=3
+20:30:32.085  ActivityA.onDestroy (isChangingConfigurations=true, isFinishing=false) - instancia: 181162150
+20:30:32.102  ActivityA.onCreate (savedInstanceState con datos) - instancia: 250086231
+20:30:32.111  ActivityA.onStart - instancia: 250086231
+20:30:32.114  ActivityA.onResume - instancia: 250086231

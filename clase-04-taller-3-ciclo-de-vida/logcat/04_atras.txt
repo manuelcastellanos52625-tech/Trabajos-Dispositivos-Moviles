@@ -1,0 +1,3 @@
+20:30:38.927  ActivityA.onPause - instancia: 86695072
+20:30:40.137  ActivityA.onStop - instancia: 86695072
+20:30:40.138  ActivityA.onDestroy (isChangingConfigurations=false, isFinishing=true) - instancia: 86695072

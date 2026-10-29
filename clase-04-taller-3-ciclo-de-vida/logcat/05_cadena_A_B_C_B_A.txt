@@ -1,0 +1,26 @@
+20:30:55.723  ActivityA.onPause - instancia: 181162150
+20:30:55.748  ActivityB.onCreate (savedInstanceState null) - instancia: 226423888
+20:30:55.751  ActivityB recibió nombre_usuario=Ana
+20:30:55.752  ActivityB.onStart - instancia: 226423888
+20:30:55.755  ActivityB.onResume - instancia: 226423888
+20:30:56.388  ActivityA.onStop - instancia: 181162150
+20:30:56.389  ActivityA.onSaveInstanceState - guardando contador=0
+20:31:00.301  ActivityB.onPause - instancia: 226423888
+20:31:00.320  ActivityC.onCreate (savedInstanceState null) - instancia: 125981224
+20:31:00.322  ActivityC recibió contador=10
+20:31:00.323  ActivityC.onStart - instancia: 125981224
+20:31:00.324  ActivityC.onResume - instancia: 125981224
+20:31:00.970  ActivityB.onStop - instancia: 226423888
+20:31:10.438  ActivityC.onPause - instancia: 125981224
+20:31:10.455  ActivityB.onRestart - instancia: 226423888
+20:31:10.455  ActivityB.onStart - instancia: 226423888
+20:31:10.456  ActivityB recibió de vuelta: 12
+20:31:10.456  ActivityB.onResume - instancia: 226423888
+20:31:11.121  ActivityC.onStop - instancia: 125981224
+20:31:11.122  ActivityC.onDestroy (isChangingConfigurations=false, isFinishing=true) - instancia: 125981224
+20:31:12.754  ActivityB.onPause - instancia: 226423888
+20:31:12.759  ActivityA.onRestart - instancia: 181162150
+20:31:12.759  ActivityA.onStart - instancia: 181162150
+20:31:12.759  ActivityA.onResume - instancia: 181162150
+20:31:13.320  ActivityB.onStop - instancia: 226423888
+20:31:13.321  ActivityB.onDestroy (isChangingConfigurations=false, isFinishing=true) - instancia: 226423888

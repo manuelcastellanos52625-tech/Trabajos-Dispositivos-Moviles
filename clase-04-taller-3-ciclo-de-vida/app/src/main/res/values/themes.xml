@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.CicloDeVidaDemo" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

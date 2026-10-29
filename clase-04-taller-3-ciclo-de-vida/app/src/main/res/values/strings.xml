@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CicloDeVidaDemo</string>
+    <string name="contador_a">Contador de A: %1$d</string>
+    <string name="hola_usuario">Hola, %1$s (recibido desde A)</string>
+    <string name="contador_b">Contador en B: %1$d</string>
+    <string name="contador_c">Contador en C: %1$d</string>
+    <string name="sumar">Sumar +1</string>
+    <string name="ir_b">Ir a ActivityB</string>
+    <string name="ir_c">Ir a ActivityC</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="guardar">Guardar y volver</string>
+    <string name="titulo_a">ActivityA</string>
+    <string name="titulo_b">ActivityB</string>
+    <string name="titulo_c">ActivityC</string>
+</resources>

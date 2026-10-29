@@ -1,0 +1,6 @@
+20:30:27.594  ActivityA.onPause - instancia: 181162150
+20:30:28.725  ActivityA.onStop - instancia: 181162150
+20:30:28.725  ActivityA.onSaveInstanceState - guardando contador=3
+20:30:29.690  ActivityA.onRestart - instancia: 181162150
+20:30:29.690  ActivityA.onStart - instancia: 181162150
+20:30:29.691  ActivityA.onResume - instancia: 181162150

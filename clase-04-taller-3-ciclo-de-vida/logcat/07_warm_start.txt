@@ -1,0 +1,3 @@
+20:32:28.793  ActivityA.onRestart - instancia: 267721447
+20:32:28.793  ActivityA.onStart - instancia: 267721447
+20:32:28.793  ActivityA.onResume - instancia: 267721447
