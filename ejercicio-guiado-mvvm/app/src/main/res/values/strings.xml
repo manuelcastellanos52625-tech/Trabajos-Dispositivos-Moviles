@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Unscramble</string>
     <string name="score">Score: %1$d</string>
-    <string name="word_count">%1$d de %2$d palabras</string>
-    <string name="instructions">Unscramble the word using all the letters</string>
+    <string name="word_count">%1$d of %2$d words</string>
+    <string name="instructions">Unscramble the word using all the letters.</string>
     <string name="enter_your_word">Enter your word</string>
     <string name="wrong_guess">Wrong Guess!</string>
     <string name="submit">Submit</string>

@@ -30,10 +30,6 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
-    testOptions {
-        // Log.d del ViewModel no existe en pruebas JVM; devuelve valores por defecto
-        unitTests.isReturnDefaultValues = true
-    }
     buildFeatures {
         compose = true
     }
@@ -49,7 +45,6 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     // Paso 5 del codelab: viewModel() para Compose
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.11.0")
-    testImplementation(libs.junit)
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
     debugImplementation(libs.androidx.compose.ui.tooling)
 }
